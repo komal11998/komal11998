@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning backend languages(php,Java)                                               
-                                                                                      ![github](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)
+                                                                                       <img align="right" width="300" height="300" src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif">
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
