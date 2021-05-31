@@ -11,4 +11,5 @@
 - ⚡ Fun fact: ...
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=komal11998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komal11998&theme=radical&show_icons=true)
+
