@@ -1,4 +1,5 @@
-### Hi there 👋
+### AHOY!
+### I'm Komal 👋
 
 
 - 🔭 I’m currently working on my skills
