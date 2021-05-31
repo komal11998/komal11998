@@ -19,7 +19,7 @@ Web Development - HTML || CSS || JAVASCRIPT || BOOTSTRAP
 Languages - C  || C++ || JAVA || PYTHON  
 
 
-Tools - Git || VsCode || Netbeans 
+Tools - Git || VsCode || Netbeans || TurboC || DevC++
 
 
 Database - Mysql
