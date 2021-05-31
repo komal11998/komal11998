@@ -1,10 +1,10 @@
 ### AHOY!
-### I'm Komal 👋
+### I'm Komal 👋                                                                                            <img align="right" width="300" height="300" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif">
 
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning backend languages(php,Java)                                               
-                                                                                       <img align="right" width="300" height="300" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif">
+                                                                                       
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
