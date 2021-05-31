@@ -1,4 +1,4 @@
-### AHOY!
+### Ahoy!
 ### I'm Komal 👋                                                                                            <img align="right" width="300" height="300" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif">
 
 
