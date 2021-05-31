@@ -11,5 +11,6 @@
 - ⚡ Fun fact: ...
 
 
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komal11998&theme=radical&show_icons=true)
+
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komal11998&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komal11998&layout=compact&theme=radical)](https://github.com/komal11998/github-readme-stats)
 
