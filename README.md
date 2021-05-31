@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning backend languages(php,Java)
+- 🌱 I’m currently learning backend languages(php,Java)                                               
+                                                                                      ![github](https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -13,16 +14,17 @@
 
 ### Languages and Tools Proficiency
 
-Web Development - HTML || CSS || JAVASCRIPT || BOOTSTRAP 
+- 📫Web Development - HTML || CSS || JAVASCRIPT || BOOTSTRAP 
 
 
-Languages - C  || C++ || JAVA || PYTHON  
+- 🌱 Languages - C  || C++ || JAVA || PYTHON  
 
 
-Tools - Git || VsCode || Netbeans || TurboC || DevC++
+- 📫 Tools - Git || VsCode || Netbeans || TurboC || DevC++
 
 
-Database - Mysql
+- 🌱 Database - Mysql
+
 
 
 
