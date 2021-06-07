@@ -23,7 +23,7 @@
 - 📫 Tools - Git || VsCode || Netbeans || TurboC || DevC++
 
 
-- 🌱 Database - Mysql
+- 🌱 Database - Derby
 
 
 
