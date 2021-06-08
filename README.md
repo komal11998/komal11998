@@ -41,7 +41,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komal11998&layout=compact&theme=radical)](https://github.com/komal11998/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komal11998&layout=compact&theme=radical)](https://github.com/komal11998/github-readme-stats)
  
  
  
