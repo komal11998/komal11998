@@ -3,13 +3,12 @@
 
 
 - 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning backend languages(Java)                                               
-                                                                                       
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently my pre-existing skills especially DSA.                                                                                                                   
+- 👯 I’m looking to collaborate on projects that will lead to personal development.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
+- 📫 How to reach me: officialkomal18@gmail.com
+- 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
 
 ### Languages and Tools Proficiency
