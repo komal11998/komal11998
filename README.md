@@ -10,7 +10,6 @@
 - 📫 How to reach me: officialkomal18@gmail.com
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
-
 - 📫 My Portfolio Website: https://komal11998.github.io/portfolio_website.github.io/
 
 ### Languages and Tools Proficiency
