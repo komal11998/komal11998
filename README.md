@@ -1,5 +1,5 @@
 
-<h1 align="center">Ahoy! 👋 I'm Komal</h1>
+<h1 align="center">Ahoy! 👋 I'm Komal<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="60"></h1>   
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal11998&label=Profile%20views&color=0e75b6&style=flat" alt="komal11998" /> </p>
