@@ -38,11 +38,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal11998&" alt="komal11998" /></p>
 
 
-
+<!-- 
 <h3 align="left">To Motivate Myself:</h3>
 <p align="center">
   <a href="">
     <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"/>
   </a>
-</p>
+</p> -->
 
