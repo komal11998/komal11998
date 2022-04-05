@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [College Website Project](https://github.com/komal11998/collegewebsite.github.io)
 
-- 🌱 I’m currently learning **STL**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 I’m looking to collaborate on **projects that will lead to personal development**
 
