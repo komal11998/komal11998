@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komal11998&label=Profile%20views&color=0e75b6&style=flat" alt="komal11998" /> </p>
 
-- 🔭 I’m currently working on [MineNFT]([https://github.com/komal11998/collegewebsite.github.io](https://minenft.tech/))
+- 🔭 I’m currently working on [MineNFT](https://github.com/komal11998/collegewebsite.github.io](https://minenft.tech/))
 
 - 🌱 I’m currently learning **React Js**
 
