@@ -1,12 +1,12 @@
 
 <h1 align="center">Ahoy! 👋 I'm Komal<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="60"></h1>   
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komal11998&label=Profile%20views&color=0e75b6&style=flat" alt="komal11998" /> </p>
 
-- 🔭 I’m currently working on [MineNFT](https://github.com/komal11998/collegewebsite.github.io](https://minenft.tech/))
+- 🔭 I’m currently working on [ANSEL ADAMS](https://github.com/komal11998/collegewebsite.github.io](https://minenft.tech/)](https://dashboard.photocharacteristics.info/login))
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **projects that will lead to personal development**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **officialkomal18@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1Yxq3rF73yMWmkDtwYdNwHAXfF16XfqM2)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1Yxq3rF73yMWmkDtwYdNwHAXfF16XfqM2](https://drive.google.com/file/d/1LOMhFe0j_IJvFdaJG4rh6dejjAIJw4rg/view?usp=drive_link))
 
 <img align="right" width="300" height="300" src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif">
 
